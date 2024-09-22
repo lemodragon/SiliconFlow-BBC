@@ -2,8 +2,8 @@
 
 ## 简介
 API余额检查器是一个用户脚本（UserScript），设计用于快速、准确地检查多个硅基流动（SiliconFlow）API密钥的余额。这个脚本提供了一个简洁的用户界面，允许用户一次性检查多个API密钥的余额状态。
-<img width="458" alt="image" src="https://github.com/user-attachments/assets/6b4c2895-d4f9-44e8-bc21-98ce29279eaa">
 
+<img width="458" alt="image" src="https://github.com/user-attachments/assets/6b4c2895-d4f9-44e8-bc21-98ce29279eaa">
 ## 功能特点
 - 批量检查多个API密钥的余额
 - 美观的用户界面
